@@ -1,0 +1,9 @@
+.App {
+
+  background: #444;
+  height: 200vh;
+}
+.App label{
+  color: white;
+  padding-top: 10px;
+}
